@@ -1,1 +1,1 @@
-"Esto es fichero"
+"Esto es fichero y esto es una actualización para hacer git diff"
