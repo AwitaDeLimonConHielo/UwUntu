@@ -1,1 +1,1 @@
-ECHO est  activado.
+Eh cambiado el contenido de fichero.
